@@ -1,0 +1,6 @@
+__pycache__
+*.sqlite
+*.csv
+*.DS_Store
+tmp
+*.pyc
